@@ -1,0 +1,10 @@
+^C:\USERS\HOME\ONEDRIVE\ÁREA DE TRABALHO\YAS\IFC\3º ANO\DSDM\TRABALHOPRATICO\TRABALHOPRATICO\BUILD\WINDOWS\CMAKEFILES\CFAA8050824E510FDC2D7A432F2BB1E5\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" "-SC:/Users/HOME/OneDrive/Área de Trabalho/yas/IFC/3º ano/DSDM/trabalhoPratico/trabalhopratico/windows" "-BC:/Users/HOME/OneDrive/Área de Trabalho/yas/IFC/3º ano/DSDM/trabalhoPratico/trabalhopratico/build/windows" --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file "C:/Users/HOME/OneDrive/Área de Trabalho/yas/IFC/3º ano/DSDM/trabalhoPratico/trabalhopratico/build/windows/trabalhopratico.sln"
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

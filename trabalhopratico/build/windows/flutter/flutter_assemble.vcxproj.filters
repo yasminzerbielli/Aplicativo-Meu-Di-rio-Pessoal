@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\HOME\OneDrive\Área de Trabalho\yas\IFC\3º ano\DSDM\trabalhoPratico\trabalhopratico\build\windows\CMakeFiles\3db17afb22b336fd790cc147f3095f0b\flutter_windows.dll.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\HOME\OneDrive\Área de Trabalho\yas\IFC\3º ano\DSDM\trabalhoPratico\trabalhopratico\build\windows\CMakeFiles\24994c51e353088724b982c7786a8899\flutter_assemble.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\HOME\OneDrive\Área de Trabalho\yas\IFC\3º ano\DSDM\trabalhoPratico\trabalhopratico\windows\flutter\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="C:\Users\HOME\OneDrive\Área de Trabalho\yas\IFC\3º ano\DSDM\trabalhoPratico\trabalhopratico\build\windows\flutter\CMakeFiles\flutter_assemble" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{7BC9BC65-1552-3CAF-A76A-2C62A410E284}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
